@@ -6,7 +6,7 @@ O layout apresenta um **menu de navegação**, um **botão de cadastro**, uma **
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Navegação com links no menu (Produtos, Empresa, Blog, Login).
 - Botão de **Cadastre-se** com estilo personalizado.
 - Estrutura HTML semântica utilizando `<header>`, `<main>` e `<aside>`.
@@ -17,10 +17,11 @@ O layout apresenta um **menu de navegação**, um **botão de cadastro**, uma **
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
 
 ---
 
-## 📂 Estrutura de Pastas
+## Estrutura de Pastas
+
